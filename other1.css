@@ -10,6 +10,9 @@ html{
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
+#iconSize {
+    font-size: 20px;
+}
 a{
     text-decoration: none;
     color: #f7f5f5;
@@ -250,7 +253,7 @@ nav button#menuButton{
 
 .portfolio .portfo-items{
     display: flex;
-    align-items: center;
+    /* align-items: center; */
     justify-content: space-between;
 }
 
